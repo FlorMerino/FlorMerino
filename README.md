@@ -8,16 +8,30 @@ Estoy interesado en el desarrollo web 🖥️ , tanto desde el lado de Front-end
 ![Captura de pantalla (17)](https://user-images.githubusercontent.com/81165701/192689127-8d701aee-3925-4a90-ae1b-10c449c9bda1.png)
 
 # 🚀 Mis Proyectos
-
+## Trabajo en equipo
 HMovies 🎥 🎞️
-Henry Movies, es una plataforma web desarrollada como proyecto grupal integrador con el fin de poner en practica todas las habilidades adquiridas en el bootcamp Henry. En este gran proyecto me desempeñe tanto en Backend, rutas de logeo, comunicacion con api, base de datos y mas; tanto como en Frontend filtrados, panel administrativo, seccion de comentarios, detalles experiencia de usuario, ect.
-Nuestra mtodologia de trabajo fue SCRUM Agile, a traves de plataforma trello. Las tecnologías principales aplicadas fueron:
-Javascript | React | CSS | HTML | Redux-toolkit | Node |MongoDB | Git Hub | Express | Trello
+Henry Movies, es una plataforma web desarrollada como proyecto grupal integrador con el fin de poner en practica no solo todas las habilidades adquiridas en el bootcamp Henry, sino que tambien fue el desafio de llevarla a cabo en 3 semanas, aplicando metodoligas agiles (Scrum) en plataforma de trello, y aprender del uso de github trabajando en equipo.
+En este gran proyecto, por mi parte, me desempeñe tanto en Backend, rutas de logeo, comunicacion con api, base de datos y mas; tanto como en Frontend filtrados, panel administrativo, seccion de comentarios, detalles experiencia de usuario, ect.
+Las tecnologías principales aplicadas fueron:
+Javascript | React | CSS/librerias | HTML | Redux-toolkit | Node |MongoDB | Git Hub | Express | Trello | deploy en heroku backend y en vercel frontend
+
 
 ![Captura de pantalla (19)](https://user-images.githubusercontent.com/81165701/192689383-02346f35-af8d-4dc7-a14b-2af79915c733.png)
 
-## 🔗 Link
-https://henrymovies.vercel.app/
+## 🔗 Link de deploy
+https://henrymovies.vercel.app
+
+## Trabajo individual
+Countries🌎​
+Este proyecto es una pagina en la cual se puede obtener informacion de todos los paises del mundo, donde cualquier usuario puede agregarle a cualquiera de ellos una o mas actividades turisticas (considerando que inicialmente ningun pais tiene actividad turistica), cuenta con varios tipos de filtrados, ordenamientos y busquedas.
+La finalidad de este trabajo fue la de implementar por primera vez las tecnologias vistas en el bootcamp de Henry, en solo 2 semanas. 
+Las tecnologías principales aplicadas fueron:
+Javascript | React | CSSP Puro | HTML | Redux | Node | Postgres | Git Hub | Express | deploy en heroku backend y en vercel frontend
+
+![Captura de pantalla (23)](https://user-images.githubusercontent.com/81165701/193473002-51279a48-0b74-4c69-8932-0a8aad32273d.png)
+
+## 🔗 Link de deploy
+https://pi-countries-coral.vercel.app
 
 # 📨 Medios de contacto
 ![gmail_new_logo_icon_159149](https://user-images.githubusercontent.com/81165701/192690305-960782a0-8542-44f0-a437-a1ce7efd8105.png) florenciamerino012@gamil.com
