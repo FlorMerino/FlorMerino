@@ -1,5 +1,7 @@
-## 👋 Hola,soy Florencia Merino
-Soy Full Stack Developer💻.
+![GifDeveops](https://user-images.githubusercontent.com/81165701/193483657-ed749ec3-38a7-4fbf-93b3-d0f3ab367e26.gif)
+
+## 
+Hola me presento soy Florencia, y soy Full Stack Developer💻.
 Apasionada por la tecnología, dispuesta a los grandes desafíos, me gusta aprender continuamente y me adapto rápido.
 Estoy interesado en el desarrollo web 🖥️ , tanto desde el lado de Front-end como del Back-end y base de datos.
 
