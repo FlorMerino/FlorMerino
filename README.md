@@ -22,6 +22,8 @@ Javascript | React | CSS/librerias | HTML | Redux-toolkit | Node |MongoDB | Git 
 
 ## 🔗 Link de deploy
 https://henrymovies.vercel.app
+## Link de video explicativo
+https://www.youtube.com/watch?v=keG8ClPjraA
 
 ## Trabajo individual
 Countries🌎​
