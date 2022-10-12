@@ -10,6 +10,14 @@ Estoy interesado en el desarrollo web 🖥️ , tanto desde el lado de Front-end
 ![Captura de pantalla (17)](https://user-images.githubusercontent.com/81165701/192689127-8d701aee-3925-4a90-ae1b-10c449c9bda1.png)
 
 # 🚀 Mis Proyectos
+
+## Mi primer proyecto 
+Este proyecto es producto de la mera curiosidad sobre la programacion y diseño web, el cual realice a traves del primer curso autodidacta referido a la programcion que tome de manera online. Dicho proyecto solo fue lo aprendido durante las primeras semanas del curso, por lo cual solo es una pagina estatica que consta de HTML5 y CSS puro.
+![Captura de pantalla (25)](https://user-images.githubusercontent.com/81165701/195445205-e8c2ebda-7767-4bf6-bc3c-e938ba71a5bd.png)
+
+## 🔗 Link de deploy
+https://freelancerflormerino.netlify.app
+
 ## Trabajo en equipo
 HMovies 🎥 🎞️
 Henry Movies, es una plataforma web desarrollada como proyecto grupal integrador con el fin de poner en practica no solo todas las habilidades adquiridas en el bootcamp Henry, sino que tambien fue el desafio de llevarla a cabo en 3 semanas, aplicando metodoligas agiles (Scrum) en plataforma de trello, y aprender del uso de github trabajando en equipo.
