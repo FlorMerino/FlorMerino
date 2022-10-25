@@ -34,7 +34,7 @@ https://henrymovies.vercel.app
 https://www.youtube.com/watch?v=keG8ClPjraA
 
 ## Proyectos individuales
-Countries🌎​
+##Countries🌎​
 Este proyecto es una pagina en la cual se puede obtener informacion de todos los paises del mundo, donde cualquier usuario puede agregarle a cualquiera de ellos una o mas actividades turisticas (considerando que inicialmente ningun pais tiene actividad turistica), cuenta con varios tipos de filtrados, ordenamientos y busquedas.
 La finalidad de este trabajo fue la de implementar por primera vez las tecnologias vistas en el bootcamp de Henry, en solo 2 semanas. 
 Las tecnologías principales aplicadas fueron:
@@ -45,8 +45,8 @@ Javascript | React | CSSP Puro | HTML | Redux | Node | Postgres | Git Hub | Expr
 ## 🔗 Link de deploy
 https://pi-countries-coral.vercel.app
 
-##ClimateApp
-Este proyecto, es una aplicacion web mediante la cual el usuario puede ver el pronostico actual y el de 5 dias posteriores. El fin de este fue mejorar y practicar aun mas con react, manejo de API externa, HTML3, CSS responsive, framer-motion y normalice.
+## ClimateApp
+Este proyecto, es una aplicacion web mediante la cual el usuario puede ver el pronostico actual y el de 5 dias posteriores. El fin de este fue mejorar y practicar aun mas con react, manejo de API externa, HTML3, CSS responsive, javaScript, framer-motion y normalice; solo esta diseñado con estas tecnologias. 
 
 ![Captura de pantalla (30)](https://user-images.githubusercontent.com/81165701/197669427-1e4ad55b-0eae-47af-a132-2fdb79686e77.png)
 
