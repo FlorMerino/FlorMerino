@@ -6,8 +6,7 @@ Apasionada por la tecnología, dispuesta a los grandes desafíos, me gusta apren
 Estoy interesado en el desarrollo web 🖥️ , tanto desde el lado de Front-end como del Back-end y base de datos.
 
 # Lenguajes y herramientas
-
-![Captura de pantalla (17)](https://user-images.githubusercontent.com/81165701/192689127-8d701aee-3925-4a90-ae1b-10c449c9bda1.png)
+![192689127-8d701aee-3925-4a90-ae1b-10c449c9bda1](https://user-images.githubusercontent.com/81165701/227346822-424218ae-9d9d-4c70-83f8-980347090c4a.png)
 
 # 🚀 Mis Proyectos
 
