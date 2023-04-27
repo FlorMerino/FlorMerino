@@ -36,22 +36,22 @@ https://www.youtube.com/watch?v=keG8ClPjraA
 ## FoodApp🍲​
 SPA (Single Page Aplication)en la cual se puede obtener mas de 50 recetas, extraidas desde una api o publicadas por distintos usuarios. Cuenta con filtrados, formularios y buscador, esta es ademas totalmente responsive apta para distintos dispositivos.
 Tecnologías aplicadas:
-Javascript | React | CSSP | Boostrap |  HTML | Redux | Node | PostgresSQL | Git Hub | Express | deploy en heroku backend y en vercel frontend
+Javascript | React | CSSP | Boostrap |  HTML Y API HTML DOM | Diseño Responsive| Normalice | Redux | Node | PostgresSQL | Git Hub | Express | Cloudinary|  deploy en Render backend/base de datos y en vercel en frontend
+![Captura de pantalla (9)](https://user-images.githubusercontent.com/81165701/234989428-be14e334-1b2b-41e7-9542-f24b6aebff26.png)
+
+## 🔗 Link de deploy
+https://food-pi-26-b.vercel.app
+
+## Countries🌎​
+Este proyecto es una pagina en la cual se puede obtener informacion de todos los paises del mundo, donde cualquier usuario puede agregarle a cualquiera de ellos una o mas actividades turisticas (considerando que inicialmente ningun pais tiene actividad turistica), cuenta con varios tipos de filtrados, ordenamientos y busquedas.
+La finalidad de este trabajo fue la de implementar por primera vez las tecnologias vistas en el bootcamp de Henry, en solo 2 semanas. 
+Las tecnologías principales aplicadas fueron:
+Javascript | React | CSSP Puro | HTML | Redux | Node | PostgresSQL | Git Hub | Express | deploy en heroku backend y en vercel frontend
 
 ![Captura de pantalla (23)](https://user-images.githubusercontent.com/81165701/193473002-51279a48-0b74-4c69-8932-0a8aad32273d.png)
 
 ## 🔗 Link de deploy
 https://pi-countries-coral.vercel.app
-## Countries🌎​
-Este proyecto es una pagina en la cual se puede obtener informacion de todos los paises del mundo, donde cualquier usuario puede agregarle a cualquiera de ellos una o mas actividades turisticas (considerando que inicialmente ningun pais tiene actividad turistica), cuenta con varios tipos de filtrados, ordenamientos y busquedas.
-La finalidad de este trabajo fue la de implementar por primera vez las tecnologias vistas en el bootcamp de Henry, en solo 2 semanas. 
-Las tecnologías principales aplicadas fueron:
-Javascript | React | CSSP Puro | HTML Y API HTML DOM | Diseño Responsive| Normalice | Redux | Node | PostgresSQL | Git Hub | Express | Cloudinary|  deploy en Render backend/base de datos y en vercel en frontend
-![Captura de pantalla (9)](https://user-images.githubusercontent.com/81165701/234989428-be14e334-1b2b-41e7-9542-f24b6aebff26.png)
-
-
-## 🔗 Link de deploy
-https://food-pi-26-b.vercel.app
 
 ## ClimateApp🌡️​
 Este proyecto, es una aplicacion web mediante la cual el usuario puede ver el pronostico actual y el de 5 dias posteriores. El fin de este fue mejorar y practicar aun mas con react, manejo de API externa, HTML3, CSS responsive, javaScript, framer-motion y normalice; solo esta diseñado con estas tecnologias. 
