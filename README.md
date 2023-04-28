@@ -48,6 +48,7 @@ SPA (Single Page Aplication)en la cual se puede obtener mas de 50 recetas, extra
 Tecnologías aplicadas:
 Javascript | React | CSS | Boostrap |  HTML Y API HTML DOM | Diseño Responsive| Normalice | Redux | Node | PostgresSQL | Git Hub | Express | Cloudinary|  deploy en Render backend/base de datos y en frontend vercel.
 ![Captura de pantalla (9)](https://user-images.githubusercontent.com/81165701/234989428-be14e334-1b2b-41e7-9542-f24b6aebff26.png)
+![Captura de pantalla (22)](https://user-images.githubusercontent.com/81165701/235266057-cfcc6772-f42b-46f4-be59-f479debed092.png)
 
 ## 🔗 Link de deploy
 https://food-pi-26-b.vercel.app
